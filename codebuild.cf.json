@@ -74,6 +74,7 @@
                                         "apigateway:POST",
                                         "apigateway:GET"
                                     ],
+                                    "Resource": "*"
                                 },
                                 {
                                     "Effect": "Deny",
